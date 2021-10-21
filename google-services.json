@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "544073529909",
+    "firebase_url": "https://solorsmith-15603.firebaseio.com",
+    "project_id": "solorsmith-15603",
+    "storage_bucket": "solorsmith-15603.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544073529909:android:710ceef1a4313ab1030f7c",
+        "android_client_info": {
+          "package_name": "com.midas.solarsmiths"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544073529909-22258ld6i3c06k9jsdb47db0b2ptn50f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjurt-y8KtlWApPsyRyQqY5OoSf7tyngA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544073529909-22258ld6i3c06k9jsdb47db0b2ptn50f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
